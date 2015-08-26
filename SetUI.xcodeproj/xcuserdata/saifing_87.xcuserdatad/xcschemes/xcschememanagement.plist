@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>setUI.xcscheme</key>
+		<key>SetUI.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>18683DE51B8CA6A5007EB933</key>
+		<key>CD7501231B8C56B300BE1712</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>18683DFE1B8CA6A5007EB933</key>
+		<key>CD75013C1B8C56B400BE1712</key>
 		<dict>
 			<key>primary</key>
 			<true/>

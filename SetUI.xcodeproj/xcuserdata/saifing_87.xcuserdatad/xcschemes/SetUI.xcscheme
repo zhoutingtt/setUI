@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "18683DE51B8CA6A5007EB933"
-               BuildableName = "setUI.app"
-               BlueprintName = "setUI"
-               ReferencedContainer = "container:setUI.xcodeproj">
+               BlueprintIdentifier = "CD7501231B8C56B300BE1712"
+               BuildableName = "SetUI.app"
+               BlueprintName = "SetUI"
+               ReferencedContainer = "container:SetUI.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "18683DFE1B8CA6A5007EB933"
-               BuildableName = "setUITests.xctest"
-               BlueprintName = "setUITests"
-               ReferencedContainer = "container:setUI.xcodeproj">
+               BlueprintIdentifier = "CD75013C1B8C56B400BE1712"
+               BuildableName = "SetUITests.xctest"
+               BlueprintName = "SetUITests"
+               ReferencedContainer = "container:SetUI.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "18683DFE1B8CA6A5007EB933"
-               BuildableName = "setUITests.xctest"
-               BlueprintName = "setUITests"
-               ReferencedContainer = "container:setUI.xcodeproj">
+               BlueprintIdentifier = "CD75013C1B8C56B400BE1712"
+               BuildableName = "SetUITests.xctest"
+               BlueprintName = "SetUITests"
+               ReferencedContainer = "container:SetUI.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "18683DE51B8CA6A5007EB933"
-            BuildableName = "setUI.app"
-            BlueprintName = "setUI"
-            ReferencedContainer = "container:setUI.xcodeproj">
+            BlueprintIdentifier = "CD7501231B8C56B300BE1712"
+            BuildableName = "SetUI.app"
+            BlueprintName = "SetUI"
+            ReferencedContainer = "container:SetUI.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,10 +76,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "18683DE51B8CA6A5007EB933"
-            BuildableName = "setUI.app"
-            BlueprintName = "setUI"
-            ReferencedContainer = "container:setUI.xcodeproj">
+            BlueprintIdentifier = "CD7501231B8C56B300BE1712"
+            BuildableName = "SetUI.app"
+            BlueprintName = "SetUI"
+            ReferencedContainer = "container:SetUI.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,10 +95,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "18683DE51B8CA6A5007EB933"
-            BuildableName = "setUI.app"
-            BlueprintName = "setUI"
-            ReferencedContainer = "container:setUI.xcodeproj">
+            BlueprintIdentifier = "CD7501231B8C56B300BE1712"
+            BuildableName = "SetUI.app"
+            BlueprintName = "SetUI"
+            ReferencedContainer = "container:SetUI.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

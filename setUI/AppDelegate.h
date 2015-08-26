@@ -1,9 +1,9 @@
 //
 //  AppDelegate.h
-//  setUI
+//  SetUI
 //
-//  Created by Apple on 15/8/25.
-//  Copyright (c) 2015年 Apple. All rights reserved.
+//  Created by saifing_87 on 15/8/25.
+//  Copyright (c) 2015年 saifing_87. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
